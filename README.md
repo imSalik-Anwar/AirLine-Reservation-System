@@ -16,5 +16,5 @@ Main: This is the home page of the application. It has a menubar with 4 menus;
 4. Admin can also search among the existing customers using the 'Search Customer' function.
 5. Admin can register a new flight to the database will all the necessary information.
 6. Admin can book flights for customers using the 'Book Flight' function. The 'Book Flight' function provides multiple features and makes filling in the details for the flight and customer easier and faster.
-8. Admin can generate/view the ticket using the 'View Ticket' function.
+8. Admin can generate or view the ticket using the 'View Ticket' function.
     
