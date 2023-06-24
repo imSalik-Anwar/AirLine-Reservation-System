@@ -4,10 +4,10 @@ The app is backed by a relational database built on RDBMS using MySQL.
 The App has 8 pages, each with different functionalities. The followings are the pages and their functionalities;
 Login Panel: The very first page to execute on running the code. Requires user name and password to proceed.
 Main: This is the home page of the application. It has a menubar with 4 menus;
-    Customer: This menu has to Add and Search Customer options (menu items).
-    Flights: This menu has two options, Add flight and search flight.
-    Ticket: The ticket menu has only one option, View Ticket.
-    Admin panel: This menu has one feature of adding a new admin.
+   1. Customer: This menu has to Add and Search Customer options (menu items).
+   2. Flights: This menu has two options, Add flight and search flight.
+   3. Ticket: The ticket menu has only one option, View Ticket.
+   4. Admin panel: This menu has one feature of adding a new admin.
 
 **Basic Functionalities**
 1. User can add admin with basic details and username & password.
